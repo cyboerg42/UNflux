@@ -16,6 +16,7 @@ git clone https://github.com/cyborg00222/UNflux/
 cd UNflux
 mkdir /root/scripts/
 cp *.sh /root/scripts
+cp *.py /root/scripts
 ```
 
 #### Install crontab
