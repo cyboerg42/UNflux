@@ -1,13 +1,13 @@
 # UNflux
 unbound cache stats to influxdb &amp; grafana
 
-#### Install curl.
+#### Install curl and python.
 
 **Ubuntu 16.04 :**
 
 ```
 apt-get update
-apt-get install curl
+apt-get install curl python
 ```
 #### Install UNflux.
 
