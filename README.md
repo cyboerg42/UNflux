@@ -9,6 +9,7 @@ unbound cache stats to influxdb &amp; grafana
 apt-get update
 apt-get install curl
 ```
+#### Install UNflux.
 
 ```
 git clone https://github.com/cyborg00222/UNflux/
